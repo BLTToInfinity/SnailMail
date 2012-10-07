@@ -11,7 +11,7 @@ public class SnailMail extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_snail_mail);
+        setContentView(R.layout.splashscreen);
     }
 
     @Override
