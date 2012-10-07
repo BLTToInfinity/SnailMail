@@ -2,5 +2,5 @@ package com.blttoinfinity.snailmail;
 import android.app.Activity;
 
 public class MainMenu extends Activity {
-//ty loves brenda
+//ty loves brenda!!
 }
